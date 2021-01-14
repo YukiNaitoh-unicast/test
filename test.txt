@@ -4,3 +4,4 @@ branch B
   2
   3
 branch A
+  a
