@@ -3,3 +3,4 @@ branch B
   1
   2
   3
+branch A
