@@ -6,3 +6,4 @@ branch B
 branch A
   a
   b
+  c
